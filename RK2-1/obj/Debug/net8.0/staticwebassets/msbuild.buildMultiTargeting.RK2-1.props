@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RK2-1.props" />
+</Project>
