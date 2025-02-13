@@ -1,0 +1,10 @@
+C:\Users\HBV\Desktop\00000000\RK2-2\bin\Debug\RK2-2.exe.config
+C:\Users\HBV\Desktop\00000000\RK2-2\bin\Debug\RK2-2.exe
+C:\Users\HBV\Desktop\00000000\RK2-2\bin\Debug\RK2-2.pdb
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2-2.csproj.AssemblyReference.cache
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2_2.Form1.resources
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2_2.Properties.Resources.resources
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2-2.csproj.GenerateResource.cache
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2-2.csproj.CoreCompileInputs.cache
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2-2.exe
+C:\Users\HBV\Desktop\00000000\RK2-2\obj\Debug\RK2-2.pdb
